@@ -1,1 +1,3 @@
-# jenkinswar
+# maven-project
+
+Simple Maven Project
